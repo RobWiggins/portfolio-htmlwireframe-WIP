@@ -1,0 +1,13 @@
+body {
+    min-width: 290px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+main {
+    max-width: 65ch;
+    margin: auto;
+    text-align: center;
+}
